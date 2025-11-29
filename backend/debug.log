@@ -1,0 +1,72 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+DeepSeekAIService initialized successfully
+DeepSeek AI Service initialized successfully
+DeepSeek generating response for: Hello... in en
+DeepSeek API error: 401 - {"error":{"message":"Authentication Fails, Your api key: ****here is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+"GET /api/health/ HTTP/1.1" 200 5451
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+Processing chat request - Session: session_1764398030312, Language: en
+DeepSeek generating response for: Internet packages... in en
+DeepSeek API error: 401 - {"error":{"message":"Authentication Fails, Your api key: ****here is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+"POST /api/chat/ HTTP/1.1" 200 278
+Processing chat request - Session: session_1764398151390, Language: en
+DeepSeek generating response for: Internet packages... in en
+DeepSeek API error: 401 - {"error":{"message":"Authentication Fails, Your api key: ****here is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+"POST /api/chat/ HTTP/1.1" 200 278
+Processing chat request - Session: session_1764398151390, Language: en
+DeepSeek generating response for: Internet packages... in en
+DeepSeek API error: 401 - {"error":{"message":"Authentication Fails, Your api key: ****here is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+"POST /api/chat/ HTTP/1.1" 200 278
+Processing chat request - Session: session_1764398151390, Language: en
+DeepSeek generating response for: Network coverage... in en
+DeepSeek API error: 401 - {"error":{"message":"Authentication Fails, Your api key: ****here is invalid","type":"authentication_error","param":null,"code":"invalid_request_error"}}
+"POST /api/chat/ HTTP/1.1" 200 278
+D:\1 Videos\AI Apps\telecom-ai-agent\backend\ai_agent\views.py changed, reloading.
+Watching for file changes with StatReloader
+MockAIService initialized - No API key required
+D:\1 Videos\AI Apps\telecom-ai-agent\backend\ai_agent\services\mock_ai_service.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /api/chat/ HTTP/1.1" 200 252
+"POST /api/chat/ HTTP/1.1" 200 364
+"POST /api/chat/ HTTP/1.1" 200 303
+"POST /api/chat/ HTTP/1.1" 200 324
+"POST /api/chat/ HTTP/1.1" 200 298
+"POST /api/chat/ HTTP/1.1" 200 405
+"POST /api/chat/ HTTP/1.1" 200 497
+"POST /api/chat/ HTTP/1.1" 200 405
+"POST /api/chat/ HTTP/1.1" 200 324
+"POST /api/chat/ HTTP/1.1" 200 386
+"POST /api/chat/ HTTP/1.1" 200 235
+D:\1 Videos\AI Apps\telecom-ai-agent\backend\ai_agent\services\mock_ai_service.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/chat/ HTTP/1.1" 200 378
+"POST /api/chat/ HTTP/1.1" 200 597
+"POST /api/chat/ HTTP/1.1" 200 300
+D:\1 Videos\AI Apps\telecom-ai-agent\backend\ai_agent\services\mock_ai_service.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/chat/ HTTP/1.1" 200 486
+"POST /api/chat/ HTTP/1.1" 200 364
+"POST /api/chat/ HTTP/1.1" 200 234
+D:\1 Videos\AI Apps\telecom-ai-agent\backend\ai_agent\services\mock_ai_service.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/chat/ HTTP/1.1" 200 251
+Watching for file changes with StatReloader
+"POST /api/chat/ HTTP/1.1" 200 209
+"POST /api/chat/ HTTP/1.1" 200 297
+"POST /api/chat/ HTTP/1.1" 200 285
+"POST /api/chat/ HTTP/1.1" 200 387
+"POST /api/chat/ HTTP/1.1" 200 312
+"POST /api/chat/ HTTP/1.1" 200 404
