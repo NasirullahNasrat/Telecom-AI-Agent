@@ -13,11 +13,26 @@ A full-stack AI-powered telecom customer assistant with **multilingual support**
 
 ## 📸 Screenshots
 
+### Chat Interface (Multilingual)
 <p align="center">
   <img src="Pictures/English.png" width="260" alt="English UI" />
   <img src="Pictures/Dari.png" width="260" alt="Dari UI" />
   <img src="Pictures/Pashto.png" width="260" alt="Pashto UI" />
 </p>
+<p align="center"><em>Chat interface in English, Dari (فارسی دری), and Pashto (پښتو)</em></p>
+
+### Admin Panel
+<p align="center">
+  <img src="Pictures/Admin%201.png" width="400" alt="Admin Panel Dashboard" />
+  <img src="Pictures/Admin%202.png" width="400" alt="Admin Panel Settings" />
+</p>
+<p align="center"><em>Admin dashboard with statistics and settings panel with API key management</em></p>
+
+### Voice Mode
+<p align="center">
+  <img src="Pictures/New%201.png" width="400" alt="Voice Mode" />
+</p>
+<p align="center"><em>Voice mode with animated visualizer — full conversational loop</em></p>
 
 ## 🚀 Overview
 
