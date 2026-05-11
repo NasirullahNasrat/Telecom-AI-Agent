@@ -1,0 +1,85 @@
+.App {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    animation: fadeInUp 0.6s ease-out;
+}
+
+/* Navigation bar */
+.app-nav {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    padding: 6px;
+    border-radius: 12px;
+}
+
+.app-nav-btn {
+    padding: 10px 24px;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    background: transparent;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.app-nav-btn:hover {
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
+}
+
+.app-nav-btn.active {
+    background: white;
+    color: #1a1a2e;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .App {
+        height: auto;
+        min-height: 100vh;
+        align-items: flex-start;
+        padding: 0;
+    }
+
+    .app-nav {
+        margin: 12px;
+        width: calc(100% - 24px);
+    }
+
+    .app-nav-btn {
+        flex: 1;
+        text-align: center;
+        font-size: 12px;
+        padding: 8px 12px;
+    }
+}
+
+/* Large screens */
+@media (min-width: 1400px) {
+    .App {
+        max-width: 1400px;
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
